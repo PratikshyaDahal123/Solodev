@@ -1,0 +1,14 @@
+# Ignore all dotfiles and dotfolders by default
+.*
+
+# Allow this ignore file
+!.gitignore
+
+# Exclude common dot-folders
+.git/
+.vs/
+.vscode/
+
+# Build outputs
+**/bin/
+**/obj/
