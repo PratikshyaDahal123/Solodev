@@ -1,0 +1,13 @@
+# Build outputs
+bin/
+obj/
+
+# Dot-folders
+.vs/
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
